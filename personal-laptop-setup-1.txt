@@ -8,7 +8,8 @@ cinst git
 
 cinst git.install
 
-cinst fiddler4
+#Fiddler no longer available in chocolatey - telerik removed it
+#cinst fiddler4
 
 #cinst IIS-WebServerRole -source windowsfeatures
 
