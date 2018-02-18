@@ -1,0 +1,23 @@
+BoxStarter_Script.txt
+
+Set-ExplorerOptions -showProtectedOSFiles -showFileExtensions
+
+cinst sysinternals
+
+cinst git
+
+cinst git.install
+
+cinst fiddler4
+
+#cinst IIS-WebServerRole -source windowsfeatures
+
+#Enable-RemoteDesktop
+#cinst adobereader
+#cinst google-chrome-x64
+#cinst imageresizerapp
+#cinst skype
+#cinst f.lux 
+#cinst WindowsLiveWriter
+#cinst Microsoft-Hyper-V-All -source windowsFeatures
+
